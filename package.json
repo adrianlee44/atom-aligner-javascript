@@ -1,0 +1,26 @@
+{
+  "name": "aligner-javascript",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Javascript support for aligner",
+  "keywords": [
+    "aligner",
+    "alignment",
+    "align",
+    "javascript",
+    "babel"
+  ],
+  "repository": "https://github.com/adrianlee44/atom-aligner-javascript",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  },
+  "dependencies": {},
+  "providedServices": {
+    "aligner.provider": {
+      "versions": {
+        "1.0.0": "getProvider"
+      }
+    }
+  }
+}
