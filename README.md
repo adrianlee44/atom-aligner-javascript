@@ -43,5 +43,6 @@ let foo   = 'bar';   // line 2
 Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)
 
 ## Changelog
-- 2015-05-13   v1.1.0   Update README
+- 2017-07-06   v1.2.0   Add support for inline Javascript
+- 2017-05-13   v1.1.0   Update README
 - 2016-07-21   v1.0.0   Initial release
